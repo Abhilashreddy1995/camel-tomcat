@@ -1,0 +1,9 @@
+org/apache/camel/example/cxf/incident/InputReportIncident.class
+org/apache/camel/example/cxf/incident/IncidentService.class
+org/apache/camel/example/cxf/CamelRoute$2.class
+org/apache/camel/example/cxf/incident/InputStatusIncident.class
+org/apache/camel/example/cxf/CamelRoute$1.class
+org/apache/camel/example/cxf/CamelRouteClient.class
+org/apache/camel/example/cxf/incident/OutputReportIncident.class
+org/apache/camel/example/cxf/incident/OutputStatusIncident.class
+org/apache/camel/example/cxf/CamelRoute.class

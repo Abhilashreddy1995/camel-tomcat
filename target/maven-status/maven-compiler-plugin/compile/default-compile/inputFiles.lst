@@ -1,0 +1,7 @@
+/opt/maven/camel-examples/examples/camel-example-cxf-tomcat/src/main/java/org/apache/camel/example/cxf/CamelRoute.java
+/opt/maven/camel-examples/examples/camel-example-cxf-tomcat/src/main/java/org/apache/camel/example/cxf/incident/InputStatusIncident.java
+/opt/maven/camel-examples/examples/camel-example-cxf-tomcat/src/main/java/org/apache/camel/example/cxf/incident/InputReportIncident.java
+/opt/maven/camel-examples/examples/camel-example-cxf-tomcat/src/main/java/org/apache/camel/example/cxf/CamelRouteClient.java
+/opt/maven/camel-examples/examples/camel-example-cxf-tomcat/src/main/java/org/apache/camel/example/cxf/incident/IncidentService.java
+/opt/maven/camel-examples/examples/camel-example-cxf-tomcat/src/main/java/org/apache/camel/example/cxf/incident/OutputStatusIncident.java
+/opt/maven/camel-examples/examples/camel-example-cxf-tomcat/src/main/java/org/apache/camel/example/cxf/incident/OutputReportIncident.java
